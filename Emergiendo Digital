@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emergiendo Digital</title>
+    <style>
+        /* Estilo general */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #F4F6F8; /* Gris claro */
+            color: #333; /* Gris oscuro para el texto */
+        }
+
+        /* Estilo del encabezado */
+        header {
+            background: #004080; /* Azul profundo */
+            color: #FFFFFF; /* Blanco */
+            padding: 20px 10%;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        header p {
+            margin: 10px 0;
+        }
+
+        /* Estilo de las secciones */
+        section {
+            padding: 20px 10%;
+            margin-bottom: 20px;
+            background: #424040 /* Blanco */
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+        }
+
+        section h2 {
+            color: #004080; /* Azul profundo */
+        }
+
+        /* Botones CTA */
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #004080; /* Azul profundo */
+            color: #FFFFFF; /* Blanco */
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .cta-button:hover {
+            background: #003366; /* Azul más oscuro */
+        }
+
+        .whatsapp-button {
+            background: #25D366; /* Verde WhatsApp */
+        }
+
+        /* Estilo del footer */
+        footer {
+            background: #333; /* Gris oscuro */
+            color: #FFFFFF; /* Blanco */
+            text-align: center;
+            padding: 10px 10%;
+        }
+
+        footer a {
+            color: #004080; /* Azul profundo */
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Emergiendo Digital</h1>
+    <p>Creación de Páginas Web + Inteligencia Artificial para tu empresa.</p>
+    <a href="#" class="cta-button">Solicitar Asesoría Gratis</a>
+    <a href="https://wa.me/1234567890?text=Hola,%20me%20gustaría%20saber%20más%20acerca%20de%20cómo%20puedo%20impulsar%20mi%20empresa%20con%20Emergiendo%20Digital." 
+       class="cta-button whatsapp-button" target="_blank">
+        Contáctanos por WhatsApp
+    </a>
+</header>
+<section>
+    <!-- Imagen antes del título "¿Por qué elegirnos?" -->
+    <img src="https://files.oaiusercontent.com/file-esa0Udo8XThp4IJeAd5OJhqe?se=2024-11-17T02%3A11%3A29Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dadecc216-b36d-4f5a-8f27-9fec883c6e82.webp&sig=MgsNnCMO8zwXlkKEVE1JUbdUdcWepJSb5c234ECGHYM%3D" 
+         alt="Innovación digital" 
+         style="display: block; margin: 20px auto; max-width: 400px; width: 100%; border-radius: 8px;">
+</section>
+
+<section>
+    <h2>¿Por qué elegirnos?</h2>
+    <ul>
+        <li>✅ Diseños únicos y funcionales: Páginas personalizadas para tu negocio.</li>
+        <li>✅ SEO Inteligente: Algoritmos que optimizan tu posicionamiento en Google automáticamente.</li>
+        <li>✅ Chatbots inteligentes: Atiende a tus clientes 24/7 con IA avanzada.</li>
+        <li>✅ Análisis predictivo: Descubre patrones en el comportamiento de tus clientes.</li>
+        <li>✅ Optimización de contenido: Generamos textos y elementos visuales con IA.</li>
+    </ul>
+    <p><strong>+500 proyectos completados</strong> | <strong>Clientes satisfechos en 10 países</strong> | <strong>Soporte humano y asistido por IA 24/7</strong></p>
+</section>
+
+<section>
+    <h2>Lo que ofrecemos</h2>
+    <ol>
+        <li><strong>Páginas Web Personalizadas:</strong> Diseñadas para captar la atención y optimizar el SEO.</li>
+        <li><strong>Tiendas Online con IA:</strong> Recomendaciones y optimización automática de estrategias de ventas.</li>
+        <li><strong>Automatización con Chatbots IA:</strong> Responde al instante, personalizando la experiencia del cliente.</li>
+        <li><strong>Análisis y Estrategias con IA:</strong> Encuentra oportunidades y mejora tus resultados.</li>
+        <li><strong>Generación de Contenidos con IA:</strong> Blogs, productos y diseño visual que destacan tu marca.</li>
+    </ol>
+    <a href="#" class="cta-button">Explora nuestras soluciones avanzadas</a>
+</section>
+
+<section>
+    <h2>Nuestro proceso en 4 pasos simples</h2>
+    <ol>
+        <li><strong>Reunión inicial:</strong> Conocemos tu negocio y objetivos.</li>
+        <li><strong>Diseño y planificación:</strong> Creamos un plan a medida.</li>
+        <li><strong>Desarrollo con IA:</strong> Integramos funciones avanzadas para optimizar tu sitio.</li>
+        <li><strong>Entrega y soporte:</strong> Te capacitamos y brindamos asistencia continua.</li>
+    </ol>
+    <a href="#" class="cta-button">Inicia tu proyecto con IA</a>
+</section>
+
+<section>
+    <h2>Testimonios</h2>
+    <blockquote>“Nuestra tienda online ahora tiene un chatbot que responde preguntas en segundos. Mis clientes están felices y mis ventas crecieron un 40%.”</blockquote>
+    <p><strong>– Ana P., dueña de una tienda de moda online</strong></p>
+    <blockquote>“La integración de análisis predictivo nos ayudó a ajustar nuestras campañas. Ahora gastamos menos y ganamos más.”</blockquote>
+    <p><strong>– Jorge L., gerente de marketing</strong></p>
+    <a href="#" class="cta-button">Ver más historias de éxito</a>
+</section>
+
+<footer>
+    <p>📧 Email: contacto@tusitioideal.com</p>
+    <p>📞 Teléfono: +57 3105241480</p>
+    <p>📍 Ubicación: Medellín, Colombia</p>
+    <p>© 2024 TuSitioIdeal - Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
+
+
